@@ -3,8 +3,7 @@
   <GameIcon />
   <GameName>Celeste</GameName>
   <CategoryName>Any%</CategoryName>
-  <LayoutPath>
-  </LayoutPath>
+  <LayoutPath>C:\Dev\Speedrunning\Splits\Celeste.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -7179,5 +7178,41 @@
       </SegmentHistory>
     </Segment>
   </Segments>
-  <AutoSplitterSettings />
+  <AutoSplitterSettings>
+    <AutoReset>True</AutoReset>
+    <SetHighPriority>True</SetHighPriority>
+    <SetGameTime>True</SetGameTime>
+    <FileTimeOffset>False</FileTimeOffset>
+    <Splits>
+      <Split>Prologue</Split>
+      <Split>Chapter1Checkpoint1</Split>
+      <Split>Chapter1Checkpoint2</Split>
+      <Split>Chapter1</Split>
+      <Split>Chapter2Checkpoint1</Split>
+      <Split>Chapter2Checkpoint2</Split>
+      <Split>Chapter2</Split>
+      <Split>Chapter3Checkpoint1</Split>
+      <Split>Chapter3Checkpoint2</Split>
+      <Split>Chapter3Checkpoint3</Split>
+      <Split>Chapter3</Split>
+      <Split>Chapter4Checkpoint1</Split>
+      <Split>Chapter4Checkpoint2</Split>
+      <Split>Chapter4Checkpoint3</Split>
+      <Split>Chapter4</Split>
+      <Split>Chapter5Checkpoint1</Split>
+      <Split>Chapter5Checkpoint2</Split>
+      <Split>Chapter5</Split>
+      <Split>Chapter6Checkpoint1</Split>
+      <Split>Chapter6Checkpoint2</Split>
+      <Split>Chapter6Checkpoint3</Split>
+      <Split>Chapter6</Split>
+      <Split>Chapter7Checkpoint1</Split>
+      <Split>Chapter7Checkpoint2</Split>
+      <Split>Chapter7Checkpoint3</Split>
+      <Split>Chapter7Checkpoint4</Split>
+      <Split>Chapter7Checkpoint5</Split>
+      <Split>Chapter7Checkpoint6</Split>
+      <Split>Chapter7</Split>
+    </Splits>
+  </AutoSplitterSettings>
 </Run>
